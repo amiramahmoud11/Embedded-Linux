@@ -1,0 +1,36 @@
+1_linux distributions
+ 1-Ubuntu
+ 2-Fedora
+ 3-Arch Linux 
+
+2-"man"
+is used to display the manual pages for virtus commends , System clles and library functions .
+
+3-the differ between rm and rmdir so
+rm : remove files and directories 
+rmdir : speial for removing empty directories. 
+
+4-
+
+a-when i traied to remove dir11 from home by using rmdir dir11 (he printed no such file or directory ) so i will go to dir1 and remove dir11 by using rmdir dir11 and in this case terminal tell mre directory not empty so i will use " rm -r dir1 " 
+ 
+b-rmdir -p OldFiles terminal print this (no such file or dir in home ).
+
+c-<absolute pass> home/dir1/docs/mycv , <relative pass> ../mycv.
+
+7-four ways to go to my home dir from /user/bin:
+1_cd ~
+2_cd /home/amira
+3_cd ../../home/amira
+4_cd $HOME 
+
+9_Command type
+• type
+Display information about command type
+11_
+man less
+man cat
+man nano
+man more
+12_s used to search the manual page names and descriptions for a specified keyword or regular expression. It helps you find commands related to a particular topic. Essentially, it's a tool for searching through the manual pages' short descriptions to find commands or programs that relate to a specific keyword.
+
